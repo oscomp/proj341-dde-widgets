@@ -10,7 +10,7 @@ DDE shell 是深度桌面环境（DDE）提供的一套框架，每个插件可�
 
 ## 项目导师
 
-张丁元 `<zhangdingyuan#uniontech.com>`
+陆红旭 `<luhongxu@deepin.org>`
 
 ## 赛题分类
 未归类的应用（如机器人、无人机等）
